@@ -18,14 +18,14 @@
 2023.07 ~ 2023.08 Guarantable 인턴
 <br>
 <br>
-Click! =>
+***Click! =>***
 <a href="https://seslab.sejong.ac.kr/home">
 <img src="https://img.shields.io/badge/SESLAB-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 <a href="https://www.guarantable.com/">
 <img src="https://img.shields.io/badge/Guarantable-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
- <= Click!
+***<= Click!***
 
 <h2 align="center">⋆｡ﾟ✶°📚Tech Stack📚⋆｡ﾟ✶°</h2>
 
@@ -49,7 +49,7 @@ Click! =>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white">
 
 #### 🌱SNS🌱
-Click! =>
+***Click! =>***
 <a href="https://www.instagram.com/hoteunsori/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -59,9 +59,11 @@ Click! =>
 <a href="mailto:twozio@sju.ac.kr">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<= Click!
+***<= Click!***
 
 <h2></h2>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftwozio&count_bg=%233D56C8&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twozio&theme=tokyonight&show_icons=true&align=center)
 
