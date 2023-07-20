@@ -11,6 +11,8 @@
 <br>
 2021.08 ~ 2023.02 세종대학교 SOFTWARE ENGINEERING & SECURITY Lab 학부연구생
 <br>
+2022.02 ~ 2022.12 세종대학교 소프트웨어융합대학 5대 학생회 민원국장
+<br>
 2023.02 ~         세종대학교 SOFTWARE ENGINEERING & SECURITY Lab 석사과정
 <br>
 2023.07 ~ 2023.08 Guarantable 인턴
