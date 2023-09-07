@@ -15,7 +15,7 @@
 <br>
 2023.02 ~         세종대학교 SOFTWARE ENGINEERING & SECURITY Lab 석사과정
 <br>
-2023.07 ~ 2023.08 Guarantable 인턴
+2023.07 ~ Guarantable 인턴
 <br>
 <br>
 ***Click! =>***
